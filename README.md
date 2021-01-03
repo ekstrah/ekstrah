@@ -5,10 +5,12 @@
 <h3 align="center">A Master Degree student on Computer Science and longlife wonderer</h3>
 
 <h2>My Interests and Hobbies<h2>
-- 🚀 Currently, studying Meilisearch Database :D
-- 💻 I normally watch anime and develop something very random
-- 🌱 This month goal is to achieve CCNA Certificate
-- ⚡️ Fun fact about me is that I love travelling around with my coffee mug.
+<ul>
+<li><p>🚀 Currently, studying Meilisearch Database :D</p></li>
+<li><p>💻 I normally watch anime and develop something very random</p></li>
+<li><p>🌱 This month goal is to achieve CCNA Certificate</p></li>
+<li><p>⚡️ Fun fact about me is that I love travelling around with my coffee mug.</p></li>
+</ul>
 
 
 <h2>I use following for developing</2>

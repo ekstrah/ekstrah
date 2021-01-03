@@ -6,8 +6,8 @@
 
 <h2>My Interests and Hobbies<h2>
 <ul>
-<li><p>🚀 Currently, studying Meilisearch Database :D</p></li>
-<li><p>💻 I normally watch anime and develop something very random</p></li>
+<li><h4>🚀 Currently, studying Meilisearch Database :D</h4></li>
+<li><h4>💻 I normally watch anime and develop something very random</h4></li>
 <li><p>🌱 This month goal is to achieve CCNA Certificate</p></li>
 <li><p>⚡️ Fun fact about me is that I love travelling around with my coffee mug.</p></li>
 </ul>
@@ -31,9 +31,9 @@
 
 <h2>Contact me</h2>
 
-[![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ekstrah.dongho@gmail.com "Connect via Email")
-[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/ekstrah "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ekstrah1 "Follow on Twitter")
+[![Gmail Badge](https://img.shields.io/badge/-ekstrah.dongho@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ekstrah.dongho@gmail.com "Connect via Email")
+[![Telegram Badge](https://img.shields.io/badge/-@ekstrah-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/ekstrah "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-@ekstrah1-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ekstrah1 "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/ekstrah "Connect on Facebook")
 
 <h2>Github Stats</h2>

@@ -1,6 +1,11 @@
 ![header](header.png)
 
+
+<h2>Who Am I?</h1>
+<h3 align="center">A postgraduate student, Java developer and longlife learner</h3>
+
 <h1>Development</h1>
+
 #### Programming Language
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/>
 

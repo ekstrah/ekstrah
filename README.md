@@ -32,13 +32,17 @@
 #### Others
 <img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/><img src="https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-### Contact me
+<br>
 
+### Contact me
+---
 [![Gmail Badge](https://img.shields.io/badge/-ekstrah.dongho@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ekstrah.dongho@gmail.com "Connect via Email")
 [![Telegram Badge](https://img.shields.io/badge/-@ekstrah-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/ekstrah "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@ekstrah1-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ekstrah1 "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/ekstrah "Connect on Facebook")
 
-### Github Stats
+<br>
 
+### Github Stats
+---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ekstrah)](https://github.com/anuraghazra/github-readme-stats)

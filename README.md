@@ -4,16 +4,15 @@
 <h2 align="center">Who Am I?</h1>
 <h3 align="center">A Master Degree student on Computer Science and longlife wonderer</h3>
 
-<h2>My Interests and Hobbies<h2>
-<ul>
-<li><h4>🚀 Currently, studying Meilisearch Database :D</h4></li>
-<li><h4>💻 I normally watch anime and develop something very random</h4></li>
-<li><p>🌱 This month goal is to achieve CCNA Certificate</p></li>
-<li><p>⚡️ Fun fact about me is that I love travelling around with my coffee mug.</p></li>
-</ul>
+### My Interests and Hobbies
+
+  - 🚀 Currently, studying Meilisearch Database :D
+  - 💻 I normally watch anime and develop something very random
+  - 🌱 This month goal is to achieve CCNA Certificate
+  - ⚡️ Fun fact about me is that I love travelling around with my coffee mug
 
 
-<h2>I use following for developing</2>
+### I use following for developing
 
 #### Programming Language
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/>

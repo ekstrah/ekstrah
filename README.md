@@ -9,9 +9,9 @@
 
 ### My Interests and Hobbies
 ---
-  - 🚀 Currently, studying Meilisearch Database :D
+  - 🚀 Currently, I am studying at TUM
   - 💻 I normally watch anime and develop something very random
-  - 🌱 This month goal is to achieve CCNA Certificate
+  - 🌱 Just wondering around the www
   - ⚡️ Fun fact about me is that I love travelling around with my coffee mug
 
 <br>

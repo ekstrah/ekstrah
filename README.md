@@ -34,15 +34,6 @@
 
 <br>
 
-### Contact me
----
-[![Gmail Badge](https://img.shields.io/badge/-ekstrah.dongho@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ekstrah.dongho@gmail.com "Connect via Email")
-[![Telegram Badge](https://img.shields.io/badge/-@ekstrah-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/ekstrah "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@ekstrah1-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ekstrah1 "Follow on Twitter")
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/ekstrah "Connect on Facebook")
-
-<br>
-
 ### Github Stats
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ekstrah)](https://github.com/anuraghazra/github-readme-stats)

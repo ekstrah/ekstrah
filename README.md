@@ -10,7 +10,6 @@
 ### My Interests and Hobbies
 ---
   - 🚀 Currently, I am studying at TUM
-  - 💻 I normally watch anime and develop something very random
   - 🌱 Just wondering around the www
   - ⚡️ Fun fact about me is that I love travelling around with my coffee mug
 
